@@ -1,0 +1,10 @@
+apiVersion: v1
+data:
+  MYSQL_DATABASE: sqldb
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2023-07-05T09:07:58Z"
+  name: db-configmap
+  namespace: default
+  resourceVersion: "1253747"
+  uid: b48dba31-f1ae-4474-b457-35f72c876965
